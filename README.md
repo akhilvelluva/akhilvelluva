@@ -1,7 +1,6 @@
 - 👋 Hi, I’m akhil velluva
 - 🌱 I’m currently Currently pursuing Ph.D. at max Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.
-- 👀 I’m interested in ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Send your quires at akhilvbioinfo{at}gmail.com
 
 <!---
 akhilvelluva/akhilvelluva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
